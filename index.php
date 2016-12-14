@@ -1,9 +1,4 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -115,7 +110,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<ul class="address-text">
 								<li><b>MY CV </b></li>
-								<li><a href="http://w3layouts.com">Browse here</a></li>
+								<li><a href="http://bit.ly/pranjal_mathur">Browse here</a></li>
 							</ul>
 						</li>
 						
