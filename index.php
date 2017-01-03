@@ -412,11 +412,7 @@ field of my study. What I like about myself? I am self motivated!<br> The "City 
 										</a>
 									</div>
 								</div>
-								<div class="col-md-3 team-gd  ">
-									<div class="thumb">
-										
-									</div>
-								</div>
+								
 								<div class="col-md-3 team-gd  ">
 									
 									<div class="thumb">
