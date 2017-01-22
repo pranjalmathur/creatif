@@ -31,6 +31,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
  <!---- start-smoth-scrolling---->
 </head>
 	<body>
+		<?php include_once("analyticstracking.php") ?>
 		<!-- container -->
 			<!-- header -->
 			<div id="home" class="header">
